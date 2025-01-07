@@ -39,7 +39,7 @@ export function sidebar() {
 
 
         <div class="sidebar-footer">
-        <p class="copyright">copyright 2023 maggie</p>
+        <p class="copyright">copyright 2025 maggie</p>
 
         <img
           src="./assets/images/tmdb-logo.svg"
